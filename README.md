@@ -3,4 +3,5 @@
 docker build -t medium/node-web-app .
 docker run -d -p 8001:8080 medium/node-web-app
 
-![image](https://github.com/user-attachments/assets/6a6b526a-056d-4c5f-ba7a-dd25fdd7777a)
+![Screenshot (367)](https://github.com/user-attachments/assets/c95bfaa2-2609-4a4f-b66d-26a908b30739)
+
